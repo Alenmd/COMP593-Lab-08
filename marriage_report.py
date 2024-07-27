@@ -1,7 +1,7 @@
 """
 Name : Alen Mulangan Davi
 Student_id : 10332934
-Partner : Krishna Prakash
+
 
 Description:
  Generates a CSV reports containing all married couples in
